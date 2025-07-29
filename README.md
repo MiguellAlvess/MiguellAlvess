@@ -7,9 +7,9 @@
 
 <h2> 👨🏻‍💻 &nbsp;Sobre mim</h2>
 
-- 🎮 &nbsp;Desde muito novo, sempre fui curioso sobre como as coisas funcionavam, especialmente no mundo da tecnologia. Essa curiosidade me levou a explorar esse universo e despertou em mim o desejo de criar minhas próprias soluções através da programação.
-- 📚 &nbsp;Atualmente, sou estudante de Sistemas de Informação e sou apaixonado por desenvolvimento de software. Como entusiasta de arquitetura de software, gosto de explorar diferentes tecnologias e aplicar boas práticas, garantindo que meu código seja limpo, performático e fácil de manter.
-- 🚀 &nbsp;Meu foco principal está no desenvolvimento web, utilizando Node.js e React para criar soluções eficientes e escaláveis. Busco constantemente aprimorar minhas habilidades e me manter atualizado com as últimas tendências do mercado.
+- 🎮 &nbsp;Desde cedo, a tecnologia sempre despertou minha atenção, não apenas como usuário, mas também por querer entender o que acontecia por trás das interfaces. Essa curiosidade me levou a explorar esse universo e despertou em mim o desejo de criar minhas próprias soluções por meio da programação.
+- 📚 &nbsp;Atualmente, sou estudante de Sistemas de Informação e gosto de construir aplicações bem estruturadas. Tenho um grande interesse por arquitetura de software e procuro estudar e aplicar Design Patterns, os princípios SOLID e abordagens como Arquitetura Limpa, Arquitetura Hexagonal e DDD, sempre buscando escrever um código limpo, performático e de fácil manutenção.
+- 🧑‍💻 &nbsp;Meu foco principal está no desenvolvimento web, utilizando Node.js e React para criar soluções eficientes e escaláveis. Busco constantemente aprimorar minhas habilidades e me manter atualizado com as últimas tendências do mercado.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
