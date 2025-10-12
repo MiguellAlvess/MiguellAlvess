@@ -34,6 +34,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+<h2>&nbsp;Um pouco mais sobre o meu perfil</h2>
 
 ![Miguel Alves's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguellAlvess&show_icons=true&theme=dracula)
