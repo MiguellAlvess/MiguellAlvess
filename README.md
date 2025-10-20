@@ -33,6 +33,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
 <h2>&nbsp;Um pouco mais sobre o meu perfil</h2>
