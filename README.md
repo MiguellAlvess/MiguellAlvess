@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, me chamo Miguel e sou desenvolvedor fullstack!</h1>
+<h1>&nbsp;Olá, me chamo Miguel e sou desenvolvedor fullstack!</h1>
 
 <a href="https://www.linkedin.com/in/miguel-alvess/"><img src="https://img.shields.io/badge/-Miguel%20Alves-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:miguellalvesiqueira@gmail.com"><img src="https://img.shields.io/badge/-miguellalvesiqueira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
