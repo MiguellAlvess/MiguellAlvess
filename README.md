@@ -12,7 +12,7 @@
 - 🧑‍💻 &nbsp;Meu foco principal está no desenvolvimento web, utilizando Node.js, React e Next.js para criar soluções eficientes e escaláveis. 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
+<h3>💻 &nbsp;Frontend:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -24,7 +24,7 @@
 ![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+<h3>⚙️ &nbsp;Backend e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=NestJS)
