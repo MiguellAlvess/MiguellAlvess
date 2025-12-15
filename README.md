@@ -8,7 +8,7 @@
 <h2> 👨🏻‍💻 &nbsp;Sobre mim</h2>
 
 - 🎮 &nbsp;Desde cedo, tive interesse por tecnologia. Esse interesse me levou a explorar esse universo e despertou em mim o desejo de criar minhas próprias soluções por meio do desenvolvimento de software.
-- 📚 &nbsp;Atualmente, sou estudante de Sistemas de Informação e gosto de construir aplicações bem estruturadas. Tenho um grande interesse por arquitetura de software e system design, procurando estudar e aplicar Design Patterns, os princípios SOLID e abordagens como Clean Architecture, Hexagonal Architeture, Domain Driven Design e Test-Driven Development, sempre buscando escrever um código limpo, performático e de fácil manutenção.
+- 📚 &nbsp;Atualmente, sou estudante de Sistemas de Informação e gosto de construir aplicações bem estruturadas. Tenho um grande interesse por arquitetura de software e system design, procurando estudar e aplicar Design Patterns, os princípios SOLID e abordagens como Clean Architecture, Hexagonal Architeture, Domain Driven Design (DDD) e Test-Driven Development (TDD), sempre buscando escrever um código limpo, performático e de fácil manutenção.
 - 🧑‍💻 &nbsp;Meu foco principal está no desenvolvimento web, utilizando Node.js, React e Next.js para criar soluções eficientes e escaláveis. 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
